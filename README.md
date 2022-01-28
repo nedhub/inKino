@@ -2,6 +2,7 @@
 
 <img src="assets/screenshots/now_in_theaters.png" width="32%" /> <img src="assets/screenshots/showtimes.png" width="32%" /> <img src="assets/screenshots/event_details.png" width="32%" />
 
+
 ## What is inKino?
 
 [![Build Status](https://travis-ci.org/roughike/inKino.svg?branch=development)](https://travis-ci.org/roughike/inKino)
